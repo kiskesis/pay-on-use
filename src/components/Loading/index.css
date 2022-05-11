@@ -1,0 +1,26 @@
+.loader-hover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: #444444;
+    opacity: 0.7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loader {
+    max-width: 422px;
+    position: relative;
+}
+
+.main-loader-bar {
+    overflow: hidden;
+    object-fit: cover;
+    object-position: 100% 0;
+    height: 73px;
+    background-color: white;
+    opacity: 1;
+}

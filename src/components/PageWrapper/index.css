@@ -1,0 +1,22 @@
+.page-wrapper {
+    position: relative;
+}
+
+.header-logo {
+    height: 80%;
+    width: 10%;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    border-bottom: 1px dotted black;
+}
+
+.header-profile-div {
+    display: flex;
+    align-items: center;
+}
