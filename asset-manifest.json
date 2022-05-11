@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/pay-on-use/static/css/main.26735cb2.css",
+    "main.js": "/pay-on-use/static/js/main.498b7a60.js",
+    "static/media/support-ukraine.png": "/pay-on-use/static/media/support-ukraine.1c01012d2405fc578679.png",
+    "service-worker.js": "/pay-on-use/service-worker.js",
+    "static/media/CarLoader.svg": "/pay-on-use/static/media/CarLoader.f3e0324a8c814805bfc7fd40bef554fa.svg",
+    "static/media/logo-black.svg": "/pay-on-use/static/media/logo-black.47b91dd0f0f6779467e8.svg",
+    "static/media/logo-white.svg": "/pay-on-use/static/media/logo-white.a3d61d15df22aeb32061.svg",
+    "index.html": "/pay-on-use/index.html",
+    "main.26735cb2.css.map": "/pay-on-use/static/css/main.26735cb2.css.map",
+    "main.498b7a60.js.map": "/pay-on-use/static/js/main.498b7a60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26735cb2.css",
+    "static/js/main.498b7a60.js"
+  ]
+}
